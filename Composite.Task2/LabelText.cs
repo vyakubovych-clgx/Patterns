@@ -1,4 +1,4 @@
-﻿namespace Composite.Task1;
+﻿namespace Composite.Task2;
 
 public class LabelText : ITag
 {
